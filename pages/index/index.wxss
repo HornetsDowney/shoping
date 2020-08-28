@@ -1,0 +1,4 @@
+view{
+    /* 使用定义的变量颜色 */
+    color: var(--themeColor);
+}
